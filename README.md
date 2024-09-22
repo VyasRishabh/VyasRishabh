@@ -15,7 +15,7 @@
 - **Hostel Helper**: [Hostel Helper App](https://hostel-helper-client.vercel.app/)
 
 ## 💼 Internship at Rockwell Automation:
-![Rockwell Automation](https://wallpaperaccess.com/full/5758467.jpg)
+<img src="https://wallpaperaccess.com/full/5758467.jpg" alt="Rockwell Automation" width="400"/>
 
 
 ## 🌐 Socials:
