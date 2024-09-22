@@ -19,7 +19,7 @@
 
 - **Hostel Helper**:  
   <a href="https://hostel-helper-client.vercel.app/" target="_blank">
-    <img src="https://via.placeholder.com/300x200?text=Hostel+Helper+App" alt="Hostel Helper Front Page" width="300"/>
+    <img src="https://res.cloudinary.com/dyoqttxkp/image/upload/v1727024387/HostelHelperFrontPrage_qileq3.png" alt="Hostel Helper Front Page" width="300"/>
   </a>
 
 
