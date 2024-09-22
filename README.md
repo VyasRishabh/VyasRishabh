@@ -14,7 +14,7 @@
 
 - **Quizze**:  
   <a href="https://quizze-client.vercel.app/" target="_blank">
-    <img src="https://via.placeholder.com/300x200?text=Quizze+App" alt="Quizze App Front Page" width="300"/>
+    <img src="https://res.cloudinary.com/dyoqttxkp/image/upload/v1727024331/QuizzeFrontPage_qmwzvb.png" alt="Quizze App Front Page" width="300"/>
   </a>
 
 - **Hostel Helper**:  
