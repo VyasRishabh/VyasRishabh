@@ -11,8 +11,17 @@
 - 😄 Pronouns: ...
 
 ## 🌟 Main Projects:
-- **Quizze**: [Quizze App](https://quizze-client.vercel.app/)
-- **Hostel Helper**: [Hostel Helper App](https://hostel-helper-client.vercel.app/)
+
+- **Quizze**:  
+  <a href="https://quizze-client.vercel.app/" target="_blank">
+    <img src="https://via.placeholder.com/300x200?text=Quizze+App" alt="Quizze App Front Page" width="300"/>
+  </a>
+
+- **Hostel Helper**:  
+  <a href="https://hostel-helper-client.vercel.app/" target="_blank">
+    <img src="https://via.placeholder.com/300x200?text=Hostel+Helper+App" alt="Hostel Helper Front Page" width="300"/>
+  </a>
+
 
 ## 💼 Internship at Rockwell Automation:
 <img src="https://wallpaperaccess.com/full/5758467.jpg" alt="Rockwell Automation" width="400"/>
