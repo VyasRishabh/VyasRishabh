@@ -15,7 +15,7 @@
 - **Hostel Helper**: [Hostel Helper App](https://hostel-helper-client.vercel.app/)
 
 ## 💼 Internship at Rockwell Automation:
-![Rockwell Automation](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rockwell_Automation_logo.svg/800px-Rockwell_Automation_logo.svg.png)
+![Rockwell Automation]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rockwell_Automation_logo.svg/800px-Rockwell_Automation_logo.svg.png](https://wallpaperaccess.com/full/5758467.jpg))
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rishabh.vyas.372) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rishabh5553/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-vyas-7344ba223) 
