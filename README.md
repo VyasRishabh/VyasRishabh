@@ -2,10 +2,10 @@
 
 **VyasRishabh/VyasRishabh** 
 
-- 🔭 I’m currently working on My Project(Quizze)
+- 🔭 I’m currently working on My Project: WorkEASE
 - 🌱 I’m currently learning (Machine Learning)
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ML and Web development projects
+- 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
 - 😄 Pronouns: ...
