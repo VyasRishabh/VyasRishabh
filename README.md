@@ -23,9 +23,14 @@
 
 ## 🌟 Main Projects:
 
+- **WorkEase-Admin**:  
+  <a href="https://work-ease-admin.vercel.app/" target="_blank">
+    <img src="https://res.cloudinary.com/dyoqttxkp/image/upload/v1747040110/fd4fdc12-b689-4110-a574-e17b4fb7ac86.png" alt="WorkEase Admin App Page" width="300"/>
+  </a>
+
 - **WorkEase**:  
-  <a href="https://quizze-client.vercel.app/](https://work-ease-client-peti.vercel.app/" target="_blank">
-    <img src="https://res.cloudinary.com/dyoqttxkp/image/upload/v1747037987/2f7c32aa-d27b-4bcc-a1b9-78f795420596.png" alt="Quizze App Front Page" width="300"/>
+  <a href="https://work-ease-client-peti.vercel.app/" target="_blank">
+    <img src="https://res.cloudinary.com/dyoqttxkp/image/upload/v1747037987/2f7c32aa-d27b-4bcc-a1b9-78f795420596.png" alt="WorkEaseApp Front Page" width="300"/>
   </a>
 
 - **Quizze**:  
