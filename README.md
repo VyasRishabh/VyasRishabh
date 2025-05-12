@@ -23,6 +23,11 @@
 
 ## 🌟 Main Projects:
 
+- **WorkEase**:  
+  <a href="https://quizze-client.vercel.app/](https://work-ease-client-peti.vercel.app/" target="_blank">
+    <img src="https://res.cloudinary.com/dyoqttxkp/image/upload/v1747037987/2f7c32aa-d27b-4bcc-a1b9-78f795420596.png" alt="Quizze App Front Page" width="300"/>
+  </a>
+
 - **Quizze**:  
   <a href="https://quizze-client.vercel.app/" target="_blank">
     <img src="https://res.cloudinary.com/dyoqttxkp/image/upload/v1727024331/QuizzeFrontPage_qmwzvb.png" alt="Quizze App Front Page" width="300"/>
